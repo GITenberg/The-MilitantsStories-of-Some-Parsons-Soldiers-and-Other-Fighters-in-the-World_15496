@@ -1,0 +1,34 @@
+_repo: The-MilitantsStories-of-Some-Parsons-Soldiers-and-Other-Fighters-in-the-World_15496
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrews, Mary Raymond Shipman
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '1687'
+    url: http://www.gutenberg.org/2009/agents/1687
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Raymond_Shipman_Andrews
+description: ''
+gutenberg_issued: '2005-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15496'
+  lccn: 07018098
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+tableOfContents: The bishop's silence -- The witnesses -- The diamond brooches --
+  Crowned with glory and honor -- A messenger -- The aide-de-camp -- Through the ivory
+  gate -- The wife of the governor -- The little revenge.
+title: 'The Militants
+
+  Stories of Some Parsons, Soldiers, and Other Fighters in the World'
+url: http://www.gutenberg.org/ebooks/15496
